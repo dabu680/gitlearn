@@ -9,11 +9,13 @@ Initialized empty Git repository in /Users/michael/learngit/.git/
 
 可以自由的在仓库中创建文件
 
+```
 
 xhhydeMac-mini:gitconfig xhhy$ echo "git test" > gittest.txt
 xhhydeMac-mini:gitconfig xhhy$ ls
 README.md	gittest.txt	readme.txt
 
+```
 
 
 # 显示当前的Git配置
